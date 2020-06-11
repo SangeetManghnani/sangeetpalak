@@ -675,7 +675,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #qbootstrap-countdown .section-heading.svg-sm .svg {
   height: 180px;
-  margin-bottom: -50px;
+  margin-bottom: 0px;
   padding: 0;
 }
 #qbootstrap-countdown .section-heading.colored .svg {
